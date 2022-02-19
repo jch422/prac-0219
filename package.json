@@ -32,6 +32,7 @@
     "html-loader": "^3.1.0",
     "html-webpack-plugin": "^5.5.0",
     "prettier": "^2.5.1",
+    "react-icons": "^4.3.1",
     "style-loader": "^3.3.1",
     "styled-components": "^5.3.3",
     "webpack": "^5.69.1",
