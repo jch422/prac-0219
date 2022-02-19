@@ -42,6 +42,7 @@ const Wrapper = styled.header`
   color: #405059;
   border-bottom: 1px solid rgba(52, 73, 94, 0.2);
   background: #fff;
+  z-index: 2;
   ${({ isTop }) =>
     !isTop &&
     `
