@@ -7,18 +7,6 @@ import Select from './Select.jsx';
 
 const PatientList = (props) => {
   const { rows, totalRows, page, setPage, length, setLength, raceList, ethnicityList } = props;
-  /*
-  page: 1,
-  length: 10,
-  order_column: null, // person_id, gender, birth, race, ethnicity, death
-  order_desc: false,
-  gender: null,
-  race: null,
-  ethnicity: null,
-  age_min: null,
-  age_max: null,
-  death: null,
-*/
 
   return (
     <Wrapper>
